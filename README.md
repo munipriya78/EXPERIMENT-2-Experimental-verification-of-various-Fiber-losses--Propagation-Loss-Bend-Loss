@@ -1,4 +1,4 @@
-# EXPERIMENT-2-OPTICAL-COMMUNICATION
+
 ## 🔍 EX.NO: 2 – Verification of Fiber Losses
 
 **Aim:**  
@@ -32,6 +32,11 @@ V1/V2 = e [ -a (L1+L2 ) ]
 ### Bending Loss :
 
 ![WhatsApp Image 2025-11-12 at 21 14 27_6da3eac4](https://github.com/user-attachments/assets/c9dc9265-5ae0-463c-97ed-0668d4f7bf7e)
+
+## Calculation:
+
+![WhatsApp Image 2025-11-12 at 21 59 47_8dd9da12](https://github.com/user-attachments/assets/3087965b-756d-4219-b494-cae4b3ac061a)
+
 
 ## Mark SplitUp:
 ![WhatsApp Image 2025-11-12 at 21 21 35_6072cf3d](https://github.com/user-attachments/assets/4f250b7b-a1f7-42af-a2de-b7ea11bcc470)
